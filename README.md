@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @eliasrenger
-- 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning python.
-- 📫 How to reach me:
-- - elias.renger@gmail.com
-
+Hi, I'm @eliasrenger
+an Engineering Physics student based in Sweden.
+Currently working on building my experience with Python
+in different applications.
+Reach me at - elias.renger@gmail.com
